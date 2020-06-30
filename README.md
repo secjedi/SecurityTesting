@@ -5,4 +5,4 @@ Some of the reports found in this repo are reports on attacks and exploitation l
 For the XRSF attack go to: https://medium.com/@evidencemonday/webgoat-cross-site-request-forgery-solution-1c069985e80f <br/>
 The project for this course was on finding, exploiting vulnerabilty in an inventory management system web application, performing static analysis on the code and patching the vulnerabities.<br/>
 
-![Inventory managenment System Outlook](/project.png)
+![Inventory managenment System Outlook](project.png)
